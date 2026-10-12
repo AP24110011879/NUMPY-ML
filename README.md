@@ -1,1 +1,1 @@
-# NUMPY-ML
+# ML assignments
